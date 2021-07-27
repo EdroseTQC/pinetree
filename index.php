@@ -1,3 +1,3 @@
 <?php
-    include_once("index.html", "thanks.html");
+    include_once("index.html");
 ?>
